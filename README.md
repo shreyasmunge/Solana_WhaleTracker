@@ -6,8 +6,6 @@ A full-stack web app to track Solana wallet balance in real time.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-## 🌐 Live Demo
-🔗 [your-project.onrender.com](https://your-project.onrender.com)
 
 ---
 
